@@ -1,4 +1,4 @@
-//Jason
+//Jason Hamilton Smith
 import java.util.Scanner;
 
 class Dec2Hex
