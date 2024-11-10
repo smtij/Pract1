@@ -1,4 +1,3 @@
-//Jason
 import java.util.Scanner;
 
 class Dec2Hex
