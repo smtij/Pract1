@@ -17,7 +17,8 @@ public class Dec2Hex {
         System.out.println("Hexadecimal representation is: " + convert(Arg1));
     }
 
-    // Method to convert decimal to hexadecimal
+    // Method to convert decimal to hexadecimal udfiuedfuiehg
+//dfhnhff
     public static String convert(int num) {
         char ch[] = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F'};
         int rem;
